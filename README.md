@@ -53,7 +53,7 @@
 
 ---
 
-⭐ "Consistency beats talent when talent doesn’t work hard"
+
 
 
 <p>
@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c"/>
 
 </p>
 
