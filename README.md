@@ -49,7 +49,7 @@
 ## 📫 Contact Me
 
 * 📧 Email: [ykhedekar1107@gmail.com](mailto:ykhedekar1107@gmail.com)
-* 🔗 LinkedIn: (add your link here)
+* 🔗 LinkedIn: www.linkedin.com/in/yash-khedekar-aa9931400
 
 ---
 
