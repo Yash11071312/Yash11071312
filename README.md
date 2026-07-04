@@ -114,17 +114,7 @@ A desktop application built with Python and Tkinter for stock buying, selling, p
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yash11071312&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash11071312&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
