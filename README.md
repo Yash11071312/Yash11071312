@@ -16,13 +16,13 @@
 - ☕ Currently Learning Java
 - ⚡ Love building real-world applications
 - 🏆 Interested in Hackathons & Open Source
-- 🎯 Goal: Crack a Product-Based Company Internship
+- 🎯 Always learning and building better software
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 - HTML
 - CSS
@@ -31,25 +31,25 @@
 - C
 - Java (Learning)
 
-### ⚙️ Frontend
+## ⚙️ Frontend
 
 - React.js
 - Vite
 - CSS3
 - Axios
 
-### 🔧 Backend
+## 🔧 Backend
 
 - Node.js
 - Express.js
 - JWT Authentication
 
-### 🗄 Database
+## 🗄 Database
 
 - MongoDB Atlas
 - Mongoose
 
-### 🛠 Tools
+## 🛠 Tools
 
 - Git
 - GitHub
@@ -64,12 +64,12 @@
 
 ## 🏢 Office Attendance System (MERN Stack)
 
-A complete Office Attendance Management System with secure role-based authentication for Admins, Supervisors, and Employees.
+A complete Office Attendance Management System with secure role-based authentication for **Admins**, **Supervisors**, and **Employees**.
 
 ### ✨ Features
 
 - 🔐 JWT Authentication
-- 👨‍💼 Employee Management
+- 👨‍💼 Employee Management (CRUD)
 - 📅 Attendance Tracking
 - 👷 Supervisor Attendance Portal
 - 💰 Payroll Management
@@ -77,17 +77,17 @@ A complete Office Attendance Management System with secure role-based authentica
 - 📁 Excel Import & Export
 - 🔍 Live Employee Search
 - 🌍 India Timezone Support
-- 📱 Responsive Design
+- 📱 Fully Responsive UI
 
 ### 🛠 Tech Used
 
 React • Node.js • Express.js • MongoDB Atlas • JWT • Axios • Vite
 
-🌐 **Live Demo**
+### 🌐 Live Demo
 
 https://office-attendance-system.netlify.app
 
-💻 **GitHub Repository**
+### 💻 GitHub Repository
 
 https://github.com/Yash11071312/Office-Attendance-System
 
@@ -95,33 +95,22 @@ https://github.com/Yash11071312/Office-Attendance-System
 
 ## 📋 Smart Task Manager
 
-A productivity web application for managing daily tasks efficiently with authentication and cloud database support.
+A productivity web application for organizing tasks efficiently using authentication and a cloud database.
 
 ---
 
 ## 📈 Python Stock Market Simulator
 
-A desktop application built with Python and Tkinter to simulate stock buying, selling, portfolio management, and chart visualization.
+A desktop application built with Python and Tkinter for stock buying, selling, portfolio management, and charts.
 
 ---
 
 # 📈 Currently Working On
 
-- 🚀 Building Full Stack MERN Projects
+- 🚀 Full Stack MERN Development
 - 🧠 Data Structures & Algorithms
-- ☕ Java Development
-- 🏆 Preparing for Hackathons
-- 💼 Internship Preparation
-
----
-
-# 🏆 Goals for 2026
-
-- 🥇 Win a National Hackathon
-- 💼 Get a Software Development Internship
-- 🚀 Build 5+ Production-Level Projects
-- 🌟 Contribute to Open Source
-- 📚 Master MERN Stack & Java
+- ☕ Java
+- 🌐 Building Real-World Projects
 
 ---
 
@@ -131,13 +120,7 @@ A desktop application built with Python and Tkinter to simulate stock buying, se
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yash11071312&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash11071312&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash11071312&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash11071312&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -145,15 +128,15 @@ A desktop application built with Python and Tkinter to simulate stock buying, se
 
 # 📫 Connect With Me
 
-📧 Email
+📧 **Email**
 
 ykhedekar1107@gmail.com
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/yash-khedekar-aa9931400
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/Yash11071312
 
@@ -180,10 +163,6 @@ https://github.com/Yash11071312
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
